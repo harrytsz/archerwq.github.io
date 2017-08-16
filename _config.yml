@@ -65,7 +65,7 @@ weibo_username: "keeplooking"
 # http://jekyllrb.com/docs/pagination/
 paginate: 5
 paginate_path: '/blog/page:num/'
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 permalink: pretty
 markdown: kramdown
