@@ -11,7 +11,7 @@ tags: [travel]
 <!--more-->
 
 2017年7月16日是我出差到美国第一周的周日，跟Tim, William约好一起去Big Sur玩，那儿离San Mateo住处有100多英里，沿着太平洋边上的一号公路一直往南，3个小时左右就能到。
-{% include image_caption.html imageurl="/images/posts/sanmateo-bigsur.png" title="San Mateo to Big Sur" caption="行车路线" %}
+{% include image_caption.html imageurl="/images/posts/sanmateo_bigsur.png" title="San Mateo to Big Sur" caption="行车路线" %}
 
 本来打算早点儿出发早点儿玩完，然后下午回来还能顺路去奥莱购物，但是，前一天晚上处理线上问题到凌晨2点，9点多才起... 出发前带了些宾馆提供的早餐，再去了趟超市买了些吃的，然后10点左右才出发。不得不说，从宾馆拿的几个面包，促成了整个旅行的转折。
 
@@ -19,7 +19,7 @@ tags: [travel]
 {% include image_caption.html imageurl="/images/posts/highway-route-one.jpg" title="Highway Route One" caption="一号公路" %}
 
 不巧快到Big Sur的时候发现路封住了，需要绕行很远才能到，我们决定不去了，在跟前的一个小镇子停下来休息。这个地方建在一条山间小溪边上，有一个加油站、一个旅馆、几个餐厅、一个酒吧，还有几个卖纪念品的商店，很多人在这休息用餐。我们加了油，逛了逛商店，稍作休息继续回程。
-{% include image_caption.html imageurl="/images/posts/river-inn-bigsur.jpg" title="River Inn Big Sur" caption="美国人的惬意周末" %}
+{% include image_caption.html imageurl="/images/posts/river_inn_bigsur.jpg" title="River Inn Big Sur" caption="美国人的惬意周末" %}
 
 在商店里我们看到一幅画，上面是一座大桥，看样子是这边的一个标志性的景点，然后我们突然意识到来的时候经过了那座桥，所以想着回去经过的时候在那停一下，看看风景。没多久我们就到了，停车，拍照，看风景。
 
@@ -28,7 +28,7 @@ tags: [travel]
 当我们准备开车继续往回走的时候，Tim先打开后备箱喝水，一阵风卷着沙土过来，我看到后备箱里有面包等吃的，怕弄脏了，砰地一声关了后备箱，这时Tim突然惊呼道：“车钥匙在后备箱里！” 
 
 这是我第一次租车，当时在机场选车的时候就挑了一个跟平时在北京开的外形相似的现代Sonata，想着开着会熟悉一些。后来才发现，这车没有倒车影像，也没有倒车雷达，熄火后车灯都不会自动关。最不幸的是车钥匙如果在后备箱里，后备箱是可以锁上的，而且，后备箱是不可能从车厢里进去的，座椅不能往前推倒，就是说，如果钥匙锁到后备箱里，即使砸了车窗进入车厢，也没有办法从车厢里进入后备箱拿钥匙，这是后来付出血的代价才知道的。
-{% include image_caption.html imageurl="/images/posts/sonata-car.jpg" title="Rental Car" caption="租的车" %}
+{% include image_caption.html imageurl="/images/posts/sonata_car.jpg" title="Rental Car" caption="租的车" %}
 
 我们开始想各种办法，砸车窗，找拖车都想过，但是这里T-Mobile和AT&T都没有信号，我们想给租车公司打电话也没办法。找到一个老外，问他通常这种情况怎么处理，他建议我们砸车窗，取钥匙，回去再跟租车公司解释，保险应该可以覆盖。我开始是想过从车厢能不能进入后备箱的问题，我的车就可以，搬倒后座就可以进入后备箱，加上老外这么肯定的建议，而且我们着急想早点回去，就决定实施砸车窗了。开始Tim砸了几下没成功，只是在车窗上留下几个印子，我决定自己来，就这样平生第一次拿石头砸了车窗，玻璃碎掉的时候我的手上有几处流血了，我没有什么感觉，轻微外伤而已。打开车门，赶紧去搬后排座椅，然后傻眼了，因为无论如何都搬不动... 当时的沮丧可想而知！
 
