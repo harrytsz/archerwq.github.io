@@ -3,7 +3,7 @@ layout: post
 title:  "难忘的Bixby Creek大桥"
 date:   2017-08-06
 banner_image: bixby.jpg
-tags: [travel]
+tags: [Travel]
 ---
 
 如果以前有人问，你印象最深的桥是哪个，我可能会在脑海中搜索一番，然后给出一个自己都不信的答案。但是现在，我一定会说是Bixby Creek大桥，不仅因为它很壮美，还因为我在那的一段非常之囧的经历...
