@@ -16,7 +16,7 @@ tags: [Travel]
 本来打算早点儿出发早点儿玩完，然后下午回来还能顺路去奥莱购物，但是，前一天晚上处理线上问题到凌晨2点，9点多才起... 出发前带了些宾馆提供的早餐，再去了趟超市买了些吃的，然后10点左右才出发。不得不说，从宾馆拿的几个面包，促成了整个旅行的转折。
 
 去程大部分时间里，沿着一号公路开，左边是山，右边是浩瀚的太平洋，我们聊着天，吹着海风，遇到好的景点就停下来拍照，走走停停，一切都很惬意，就像很多成功的旅行一样。
-{% include image_caption.html imageurl="/images/posts/highway-route-one.jpg" title="Highway Route One" caption="一号公路" %}
+{% include image_caption.html imageurl="/images/posts/highway_route_one.jpg" title="Highway Route One" caption="一号公路" %}
 
 不巧快到Big Sur的时候发现路封住了，需要绕行很远才能到，我们决定不去了，在跟前的一个小镇子停下来休息。这个地方建在一条山间小溪边上，有一个加油站、一个旅馆、几个餐厅、一个酒吧，还有几个卖纪念品的商店，很多人在这休息用餐。我们加了油，逛了逛商店，稍作休息继续回程。
 {% include image_caption.html imageurl="/images/posts/river_inn_bigsur.jpg" title="River Inn Big Sur" caption="美国人的惬意周末" %}
