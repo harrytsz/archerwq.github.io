@@ -65,7 +65,7 @@ Docker包括两部分:
 **`docker run -d ubuntu:14.04 /bin/sh -c "while true; do echo hello world; sleep 1; done"`**  
 * **`-d`** tells Docker to run the container and put it in the background, to daemonize it
 
-// 起一个web应用，容器端口5000映射到宿主机的80端口    
+// 起一个web应用，容器端口5000映射到宿主机的80端口   
 **`docker run -d -p 80:5000 training/webapp python app.py`**  
 
 // 把宿主机目录(/src/webapp) mount到容器指定目录(/opt/webapp)  
@@ -88,8 +88,11 @@ Docker包括两部分:
 // 删除容器  
 **`docker rm nostalgic_morse`**  
 
-// 删除所有容器
-**`docker rm $(docker ps -aq)`**
+// 删除所有容器  
+**`docker rm $(docker ps -aq)`**  
+
+// 从宿主机拷贝文件到容器  
+**`docker cp /tmp/test.yml 81968e24544f:/tmp`**  
 
 ##### 镜像相关
 // List all the images you have locally on our host  
