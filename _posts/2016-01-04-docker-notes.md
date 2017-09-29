@@ -6,12 +6,12 @@ banner_image: docker.png
 tags: [Docker]
 ---
 
-我理解的Docker是一个容器，把应用和其所依赖的运行环境打包成一个镜像，可以方便快速地把你的应用在各种环境上deploy起来，并保证一致性，省去配置环境的痛苦。  
+我理解的Docker把应用和其所依赖的运行环境打包成一个镜像，可以更高效、更一致的在开发、测试、集成、生产环境deploy，同时对DevOps来说更容易运维。  
 
 <!--more-->
 
 Docker基于操作系统之上，是进程级别的隔离，比虚机更轻量级。  
-![docker vs. vm](/images/posts/docker_vs_vm.png)
+{% include image_caption.html imageurl="/images/posts/docker_vs_vm.png" caption="VM vs. Docker" %} 
 
 Docker包括两部分:  
 
