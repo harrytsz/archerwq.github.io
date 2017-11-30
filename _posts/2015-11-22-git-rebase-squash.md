@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Git怎样合并最近两次提交
-date:   2015-11-22
+title: Git怎样合并最近两次提交
+date: 2015-11-22
 banner_image: 
 tags: [Git]
 ---

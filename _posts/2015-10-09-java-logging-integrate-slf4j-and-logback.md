@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Java Logging: slf4j + logback"
-date:   2015-10-09
+title: "Java Logging: slf4j + logback"
+date: 2015-10-09
 banner_image: 
 tags: [Java]
 ---
-
 
 Java日志方案有很多，包括：java.util.logging、Apache的commons-logging和log4j、slf4j以及logback. 一个大型项目会用到众多第三方jar包，这些jar包可能会用到上述各种日志方案，如何在新的项目中使用slf4j+logback的组合，让所有其他jar包的日志也输出到logback，并避免冲突和异常？
 

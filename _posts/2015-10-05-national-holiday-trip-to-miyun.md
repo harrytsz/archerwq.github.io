@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "十一密云郊游"
-date:   2015-10-05
+title: 十一密云郊游
+date: 2015-10-05
 banner_image: miyun_shuiku_bian.jpg
 tags: [Travel]
 ---

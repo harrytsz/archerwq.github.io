@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "难忘的Bixby Creek大桥"
-date:   2017-08-06
+title: 难忘的Bixby Creek大桥
+date: 2017-08-06
 banner_image: bixby.jpg
 tags: [Travel]
 ---

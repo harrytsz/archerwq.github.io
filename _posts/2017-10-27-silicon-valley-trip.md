@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "硅谷一日游"
-date:   2017-10-27
+title: 硅谷一日游
+date: 2017-10-27
 banner_image: knuth_words.jpg
 tags: [Travel]
 ---

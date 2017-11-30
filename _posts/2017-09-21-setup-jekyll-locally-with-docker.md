@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  基于Docker搭建本地Jykell环境
-date:   2017-09-21
+title: 基于Docker搭建本地Jykell环境
+date: 2017-09-21
 banner_image: jekyll_and_docker.jpg
 tags: [Docker, Jekyll]
 ---
