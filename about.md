@@ -14,3 +14,11 @@ banner_image: aboutPage.jpg
 理想中的生活状态是在一个空气好、不冷不热、环境优美的海边小城，有山间清爽的风，有沙滩冰凉的水，有小城温暖的光，有热爱的工作，家庭幸福孩子出息，有钱旅行，有时间读书丰富内心，有空闲运动锻炼身体，有三五好友常聚，看云卷云舒，任时间推移，淡定从容... 努力中！
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+
+
+
+###### 2018.1.5 更新
+----------------------
+在新年之前，辞去了北京的工作，举家移居珠海，我也加入了金山软件，从事WPS企业云服务端开发，主要用Golang. 离理想中的生活状态近了一步，不过真正达到还需要更加努力经营。
+
+
