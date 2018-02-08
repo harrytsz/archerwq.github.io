@@ -7,7 +7,7 @@ banner_image: aboutPage.jpg
 
 **Qiang** 自认为是一名靠谱的软件工程师，热爱编程，热爱学习，不断拓展、打磨自身技能栈(最近在学习Golang)，并乐在其中。
 
-自从2009年北邮硕士毕业，先后在[EBUPT](http://www.ebupt.com/list/roll/snavid/53),  [IBM](http://www-03.ibm.com/software/products/en/ibmconnectionsdocs),  [Qunar](https://train.qunar.com/)工作过，目前供职于一家美国SaaS创业公司[Zuora](https://www.zuora.com/).  一直以来都是从事后端开发，对Java相关技术栈比较熟悉。经历过中美不同风格不同规模的公司、团队和项目，对软件工程方方面面有比较深刻认识。
+自从2009年北邮硕士毕业，先后在[EBUPT](http://www.ebupt.com/list/roll/snavid/53),  [IBM](http://www-03.ibm.com/software/products/en/ibmconnectionsdocs),  [Qunar](https://train.qunar.com)工作过，目前供职于一家美国SaaS创业公司[Zuora](https://www.zuora.com).  一直以来都是从事后端开发，对Java相关技术栈比较熟悉。经历过中美不同风格不同规模的公司、团队和项目，对软件工程方方面面有比较深刻认识。
 
 业余喜欢打篮球，玩实况足球，旅行... 自从有了女儿之后，最大的爱好就是逗她玩 :)
 
@@ -19,6 +19,6 @@ banner_image: aboutPage.jpg
 
 ###### 2018.1.5 更新
 ----------------------
-在新年之前，辞去了北京的工作，举家移居珠海，我也加入了金山软件，从事WPS企业云服务端开发，主要用Golang. 离理想中的生活状态近了一步，不过真正达到还需要更加努力经营。
+在新年之前，辞去了北京的工作，举家移居珠海，我也加入了[金山办公](https://store.wps.cn)，从事WPS企业云服务端开发，主要用Golang. 离理想中的生活状态近了一步，不过真正达到还需要更加努力经营。
 
 
