@@ -2,7 +2,7 @@
 layout: post
 title: 移居珠海
 date: 2017-12-28
-banner_image: fuhuali_bar.jpg
+banner_image: green_park.jpg
 tags: [Thoughts]
 ---
 
